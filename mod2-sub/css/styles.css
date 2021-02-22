@@ -57,7 +57,7 @@ p {
 @media (min-width: 992px) {
     .col-lg-4 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
         /* reduce width by 2% to account for 1% margin on both sides */
         width: 31.33%;
         margin: 1%;
@@ -68,14 +68,14 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
     .col-md-6 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
         /* reduce width by 2% to account for 1% margin on both sides */
         width: 48%;
         margin: 1%;
     }
     .col-md-12 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
         /* reduce width by 2% to account for 1% margin on both sides */
         width: 98%;
         margin: 1%;
@@ -86,7 +86,7 @@ p {
 @media (max-width: 767px) {
     .col-sm-12 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
         /* reduce width by 2% to account for 1% margin on both sides */
         width: 98%;
         margin: 1%;
